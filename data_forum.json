@@ -1,0 +1,30 @@
+[
+    {
+        "id": 4,
+        "penulis": "halo",
+        "pupuk": "ikan",
+        "isi": "jadi gini gitu lah pokonya\n",
+        "likes": 0
+    },
+    {
+        "id": 1,
+        "penulis": "Pak Budi (Tani Cabai)",
+        "pupuk": "NPK Mutiara 16-16-16",
+        "isi": "Pakai NPK Mutiara pas fase vegetatif bikin tunas cabai cepat rimbun!",
+        "likes": 12
+    },
+    {
+        "id": 2,
+        "penulis": "Sari UrbanFarm",
+        "pupuk": "Pupuk Organik Cair (POC)",
+        "isi": "Buat yang nanam tomat di polybag balkon, POC air cucian beras + EM4 ampuh banget dan nggak bau.",
+        "likes": 19
+    },
+    {
+        "id": 3,
+        "penulis": "Mas Dimas",
+        "pupuk": "KNO3 Putih",
+        "isi": "Pas mulai berbunga semprot KNO3 Putih, bunga cabai nggak gampang rontok meski hujan.",
+        "likes": 8
+    }
+]
